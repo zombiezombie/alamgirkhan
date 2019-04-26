@@ -1,1 +1,3 @@
 "Name: alamgir khan" 
+email: alamgirkhan57540@gmail.com
+student of BSCS
